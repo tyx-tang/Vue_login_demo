@@ -17,11 +17,6 @@ export default {
       return this.$store.state.login
     }
   },
-  store,
-  data () {
-    return {
-      titletext: '商店页面'
-    }
-  }
+  store
 }
 </script>
